@@ -1,21 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:49.063538
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:44
 #+TITLE: 天台宗未決（附釋疑）
 #+PROPERTY: CBETA_ID X56n0942
 #+PROPERTY: ID KR6d0220
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 56, No. 942
 #+PROPERTY: VOL 56
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0220_X_001-0671c> 
 #+PROPERTY: JUAN 1
 
- 
-天台宗未決（問答十箇條）¶
+* No. 942-1¶
+ 天台宗未決　問答十¶
 最澄在唐日問　䆳座主決義¶
 
   
-  * 一　有別教菩薩登二地已上位迴入圓位乎¶
+  * 一　有別教菩薩登二地巳上位迴入圓位乎¶
   * 二　通教第十地菩薩迴入圓教何位¶
   * 三　帶方便圓教為具四一¶
   * 四　造境即中造字訓¶
@@ -101,7 +101,7 @@
 者亦廣亦深何以故不存境故。
 <pb:KR6d0220_X_001-0672c>¶
 
-已上十問者最澄𩓂還學求法到入大唐國向¶
+巳上十問者最澄𩓂還學求法到入大唐國向¶
 天台山宿台州龍興寺極樂淨土院值遇天台¶
 座主道䆳和尚所學問決義如右。¶
 
