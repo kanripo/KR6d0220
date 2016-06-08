@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:49.115231
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:44
 #+TITLE: 天台宗未決（附釋疑）
 #+PROPERTY: CBETA_ID X56n0942
 #+PROPERTY: ID KR6d0220
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 3
 
  
-釋疑（問答三十箇條）¶
+* 釋疑（問答三十箇條）¶
 
 六月一日天台山僧維蠲謹獻書於¶
 郎中使君(閣下)維蠲言去歲不稔人無聊生皇帝憂¶

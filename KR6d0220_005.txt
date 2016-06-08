@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:49.162643
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:44
 #+TITLE: 天台宗未決（附釋疑）
 #+PROPERTY: CBETA_ID X56n0942
 #+PROPERTY: ID KR6d0220
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 5
 
  
-釋疑（問答六箇條）¶
+* 釋疑（問答六箇條）¶
 ¶
 
   

@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:49.063538
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:44
 #+TITLE: 天台宗未決（附釋疑）
 #+PROPERTY: CBETA_ID X56n0942
 #+PROPERTY: ID KR6d0220
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 
  
-天台宗未決（問答十箇條）¶
+* 天台宗未決（問答十箇條）¶
 最澄在唐日問　䆳座主決義¶
 
   
